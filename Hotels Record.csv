@@ -1,0 +1,56 @@
+hotel_id,hotel_name,count,rating,Info,latitude,longitude
+301864,Sheraton Riyadh Hotel & Towers,407,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.667272,46.711076
+16865982,Le Méridien Riyadh,78,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.7033,46.6994
+15215188,Fairmont Riyadh,220,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.808397,46.71805
+15756839,Hilton Riyadh Hotel & Residences,1626,4.5,NULL,24.785522,46.72788
+3250538,Al Mashreq Boutique Hotel,170,4.5,"['Free breakfast available', 'Free cancellation']",24.70452,46.655216
+28054092,Nova M Hotel Edge By Rotana,2,4.5,NULL,24.779217,46.642143
+3879255,OYO 146 Al Asemah Hotel,3,3.5,"['Free breakfast available', 'Free cancellation']",24.641687,46.72113
+25280776,Ramada By wyndham,7,4,NULL,24.7273,46.6775
+1732120,Rand by Wandalus,70,3.5,NULL,24.7033,46.6994
+10131963,Spectrums Hotel Riyadh,189,4.5,"['Free breakfast available', 'Free cancellation']",24.700665,46.678635
+2366709,The Ritz-Carlton Riyadh,1045,4.5,NULL,24.6831,46.6787
+5994700,Narcissus Hotel & Spa Riyadh,338,4.5,NULL,24.695637,46.683575
+3514706,ibis Riyadh Olaya Street,430,3.5,NULL,24.712132,46.67674
+15368089,IntercityHotel Riyadh Malaz,14,4,NULL,24.6305,46.7342
+299191,"InterContinental Riyadh, an IHG hotel",957,4.5,NULL,24.666677,46.692158
+24143026,Joudyan Hotel,317,5,"['Free breakfast available', 'Free cancellation']",24.713552,46.675297
+8470987,Al Oroba Hotel,2,2.5,NULL,24.632,46.7144
+3349253,Carawan Al Fahad Hotel,54,4,"['Free breakfast available', 'Free cancellation']",24.711273,46.671043
+810042,Continent Al Waha Hotel,407,4.5,"['Free breakfast available', 'Free cancellation']",24.680944,46.689484
+1486058,"Crowne Plaza Riyadh Palace, an IHG hotel",239,4,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.664728,46.71136
+299190,"Holiday Inn Riyadh - Olaya, an IHG hotel",499,4,NULL,24.680237,46.690372
+26059301,Damac Tower Riyadh Luxury Apartments,1,5,NULL,24.709423,46.67273
+1748545,Executives Hotel - Olaya,165,4,"['Free breakfast available', 'Free cancellation']",24.70869,46.678
+9702375,Rosh Rayhaan by Rotana,1311,4.5,"['Free breakfast available', 'Free cancellation']",24.700346,46.682137
+27131550,Sands Inn Hostel,2,5,NULL,24.6555,46.6989
+15239002,Shaza Riyadh,176,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.675924,46.7792
+24001761,Warwick Riyadh,5,2.5,NULL,24.6939,46.6995
+969150,"Holiday Inn Riyadh - al Qasr, an IHG hotel",1073,4.5,NULL,24.683914,46.68803
+7789088,"Crowne Plaza Riyadh Rdc Hotel & Convention, An Ihg Hotel",331,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.738811,46.635284
+26451032,The St. Regis Riyadh,54,5,NULL,24.696,46.6935
+17154823,"Crowne Plaza Riyadh al Waha, an IHG hotel",214,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.742296,46.725163
+2149240,Riyadh Airport Marriott Hotel,256,4,NULL,24.9547,46.7023
+6164000,JW Marriott Hotel Riyadh,669,4.5,NULL,24.705,46.6757
+23569851,Fairmont Ramla Serviced Residences,121,4.5,NULL,24.6922,46.6869
+14182161,Hyatt Place Riyadh Al Sulaimania,264,4.5,"['Free breakfast available', 'Free cancellation']",24.6921,46.6936
+9720941,Burj Alhayah Hotel Suites Alfalah,5,4,NULL,24.64,46.7263
+10319364,Al Diafah Hotel Suites,2,3.5,NULL,24.6453,46.7315
+15056872,Centro Olaya,333,4.5,NULL,24.692995,46.684284
+26366466,Erfad Hotel,2,4.5,NULL,24.6478,46.7183
+506759,Madareem Hotel,105,3.5,NULL,24.7531,46.7622
+27175878,Mena Hotel Nasiriah Riyadh,1,5,NULL,24.6339,46.7107
+12363377,Braira Al Wezarat,6,3.5,NULL,24.6725,46.7183
+11667441,Hyatt Regency Riyadh Olaya,742,4.5,NULL,24.698381,46.682392
+3437636,Intour Qurtoba Hotel Suites,5,3.5,NULL,24.7944,46.7319
+23673791,"Mansard Riyadh, A Radisson Collection Hotel",127,4.5,NULL,24.7192,46.7046
+5249543,Meral Crown Hotel,20,3.5,NULL,24.6336,46.6942
+14027272,Nawara Dala,2,3.5,NULL,24.779298,446.586776
+27729005,Novotel Riyadh Sahafa,5,5,NULL,24.76,46.655
+27143516,Ross Hotel,1,5,NULL,24.6425,46.7014
+27514929,The Land Resort,1,5,NULL,24.8325,46.6897
+23623900,The Valley Resort,1,5,NULL,24.8469,46.5747
+11879864,Thwary Hotel Suites,3,4.5,"['Free breakfast available', 'Free cancellation • Reserve now, pay at stay']",24.739,46.6884
+12248951,Towlan Khurais,3,4.5,NULL,24.7713,46.7956
+7988480,Vivienda Hotel Villas Granada,4,5,NULL,24.7776,46.6825
+23999395,Voyage Hotel,3,3.5,NULL,24.7137,46.6879
