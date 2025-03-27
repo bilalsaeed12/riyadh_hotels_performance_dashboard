@@ -36,6 +36,6 @@ Interact with filters to explore insights dynamically.
 
 📢 **Let's Connect!**
 💼 https://www.linkedin.com/in/muhammad-bilal-saeed-aa28421ab
-If you find this project useful, feel free to ⭐ the repo! 🚀
+If you find this project useful, feel free to ⭐ the repo! 
 
 
